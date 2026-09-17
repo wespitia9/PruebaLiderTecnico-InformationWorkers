@@ -31,7 +31,12 @@ cliente a través de sus programas de lealtad online y offline.
 Este repositorio no contiene código funcional: representa la organización y
 las buenas prácticas de un arquitecto de datos senior para este caso.
 
-## Fuente de verdad de la prueba
+## Fuente para el desarrollo
 
 El documento original de la prueba está en
 [`docs/Prueba_de_seleccion_Lider_tecnico_Information_Wokers.pdf`](docs/Prueba_de_seleccion_Lider_tecnico_Information_Wokers.pdf).
+
+## Autor
+
+**Wilson Espitia Humanez**, M.Sc. in Analytical Engineering
+Data Science Professional
